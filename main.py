@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python111
 """
 A simple app to create a JWT token.
 """
